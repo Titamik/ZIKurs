@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZIKurs", "ZIKurs\ZIKurs.csproj", "{A09562B7-81B3-4FC5-91B3-F1ECE46FA8E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A09562B7-81B3-4FC5-91B3-F1ECE46FA8E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09562B7-81B3-4FC5-91B3-F1ECE46FA8E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09562B7-81B3-4FC5-91B3-F1ECE46FA8E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09562B7-81B3-4FC5-91B3-F1ECE46FA8E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCA64C8E-79FD-44AD-913E-72CFD1ED6056}
+	EndGlobalSection
+EndGlobal

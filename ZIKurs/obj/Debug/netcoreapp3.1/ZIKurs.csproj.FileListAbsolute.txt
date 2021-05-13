@@ -1,0 +1,15 @@
+C:\Users\all\source\repos\ZIKurs\ZIKurs\bin\Debug\netcoreapp3.1\ZIKurs.exe
+C:\Users\all\source\repos\ZIKurs\ZIKurs\bin\Debug\netcoreapp3.1\ZIKurs.deps.json
+C:\Users\all\source\repos\ZIKurs\ZIKurs\bin\Debug\netcoreapp3.1\ZIKurs.runtimeconfig.json
+C:\Users\all\source\repos\ZIKurs\ZIKurs\bin\Debug\netcoreapp3.1\ZIKurs.runtimeconfig.dev.json
+C:\Users\all\source\repos\ZIKurs\ZIKurs\bin\Debug\netcoreapp3.1\ZIKurs.dll
+C:\Users\all\source\repos\ZIKurs\ZIKurs\bin\Debug\netcoreapp3.1\ZIKurs.pdb
+C:\Users\all\source\repos\ZIKurs\ZIKurs\obj\Debug\netcoreapp3.1\ZIKurs.csprojAssemblyReference.cache
+C:\Users\all\source\repos\ZIKurs\ZIKurs\obj\Debug\netcoreapp3.1\ZIKurs.Form1.resources
+C:\Users\all\source\repos\ZIKurs\ZIKurs\obj\Debug\netcoreapp3.1\ZIKurs.csproj.GenerateResource.cache
+C:\Users\all\source\repos\ZIKurs\ZIKurs\obj\Debug\netcoreapp3.1\ZIKurs.AssemblyInfoInputs.cache
+C:\Users\all\source\repos\ZIKurs\ZIKurs\obj\Debug\netcoreapp3.1\ZIKurs.AssemblyInfo.cs
+C:\Users\all\source\repos\ZIKurs\ZIKurs\obj\Debug\netcoreapp3.1\ZIKurs.csproj.CoreCompileInputs.cache
+C:\Users\all\source\repos\ZIKurs\ZIKurs\obj\Debug\netcoreapp3.1\ZIKurs.dll
+C:\Users\all\source\repos\ZIKurs\ZIKurs\obj\Debug\netcoreapp3.1\ZIKurs.pdb
+C:\Users\all\source\repos\ZIKurs\ZIKurs\obj\Debug\netcoreapp3.1\ZIKurs.genruntimeconfig.cache
